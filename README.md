@@ -1,17 +1,18 @@
-# Atlas Onboard - Landing Page Awal
+# Atlas Onboard - Landing Page Perusahaan
 
-Implementasi awal website perusahaan (landing page) sesuai scope tugas ATL-95.
+Implementasi website perusahaan untuk integrasi hasil [ATL-95](/ATL/issues/ATL-95), [ATL-96](/ATL/issues/ATL-96), dan [ATL-97](/ATL/issues/ATL-97) di repo utama.
 
 ## Cakupan
 
-- Halaman utama responsif
-- Section visi dan misi
+- Halaman utama responsif dengan tema dark aesthetic
+- Hero + CTA final dari ATL-96
+- Section visi dan misi (copywriting ATL-96)
 - Katalog layanan:
   - Web Development
-  - Content Production
+  - Content & Creative
   - Software Analisa
   - IT Support
-- Placeholder kontak (tanpa kredensial sensitif)
+- Kontak kanal publik (email, TikTok, Instagram) tanpa kredensial sensitif sesuai SOP ATL-97
 
 ## Struktur File
 
