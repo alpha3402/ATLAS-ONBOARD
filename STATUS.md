@@ -4,6 +4,11 @@
 
 Task induk [ATL-94](/ATL/issues/ATL-94) ("membuat web company kita") sudah memiliki artefak web utama di repository dan telah dipublikasikan ke branch `main`.
 
+## Update CTO Lanjutan (ATL-73 dan ATL-100)
+
+- Lokalisasi antarmuka publik ke Bahasa Indonesia sudah dirapikan di `index.html` (label layanan, label kontak, footer).
+- Otomasi laporan harian 08:00 WIB ke Telegram tetap berfungsi untuk mode dry-run; pengiriman riil membutuhkan `TELEGRAM_BOT_TOKEN` dan `TELEGRAM_CHAT_ID`.
+
 ## Deliverable yang Sudah Masuk
 
 - `index.html`
@@ -16,8 +21,8 @@ Task induk [ATL-94](/ATL/issues/ATL-94) ("membuat web company kita") sudah memil
 
 ## Timestamp Update Publik
 
-- WIB: 2026-04-02 18:19:17 WIB
-- UTC: 2026-04-02 11:19:17 UTC
+- ISO (UTC): 2026-04-02T11:36:25Z
+- WIB: 2026-04-02 18:36:25 WIB
 
 ## Catatan Verifikasi
 

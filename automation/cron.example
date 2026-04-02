@@ -1,0 +1,3 @@
+# Jalankan report setiap hari jam 08:00 WIB
+CRON_TZ=Asia/Jakarta
+0 8 * * * cd /absolute/path/to/ATLAS-ONBOARD && /usr/bin/env bash ./automation/daily_telegram_report.sh >> ./deliverables/logs/cron.log 2>&1
